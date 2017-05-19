@@ -1,4 +1,4 @@
-# stoichiograph
+# Stoichiograph
 
 This program takes a word (or list of words) as input and quickly returns
 a list (if such a list exists) of the ways that those words can be made from
