@@ -15,4 +15,4 @@ l: find longest words that can be made<br>
 c: find the word with the most possible combinations<br><br>
 
 # Recommended Example
-python stoichiograph.py -i dictionary2.txt -o plc
+python stoichiograph.py -i testInputs/dictionary2.txt -o plc
