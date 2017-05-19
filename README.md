@@ -6,7 +6,7 @@ the names of the elements in the periodic table.<br>
 Runs in O(n) time <br><br>
 
 # Usage
-python stoichiograph.py -i \<inputfile> -o \<options> <br>
+python stoichiograph.py -i \<inputfile> -o \<options> <br><br>
 
 # OPTIONS:
 
