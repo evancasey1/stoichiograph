@@ -8,9 +8,11 @@ Runs in O(n) time <br><br>
 # Usage
 python stoichiograph.py -i \<inputfile> -o \<options> <br><br>
 
-# OPTIONS:
+# Options:
 
 p: print list (file input only)<br>
 l: find longest words that can be made<br>
-c: find the word with the most possible combinations<br>
+c: find the word with the most possible combinations<br><br>
 
+# Recommended Example
+python stoichiograph.py -i dictionary2.txt -o plc
